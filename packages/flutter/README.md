@@ -5,5 +5,5 @@ and desktop apps. Flutter is optimized for today's — and tomorrow's — mobile
 and desktop devices. We are focused on low-latency input and high frame rates
 on all platforms.
 
-See the [getting started guide](https://flutter.dev/getting-started/) for
+See the [getting started guide](https://flutter.dev/getting-started/) for more
 information about using Flutter.
