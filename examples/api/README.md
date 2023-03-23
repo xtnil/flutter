@@ -101,7 +101,7 @@ The entire example should be in a single file, so that Dartpad can load it.
 
 Only packages that can be loaded by Dartpad may be imported. If you use one that
 hasn't been used in an example before, you may have to add it to the
-[pubspec.yaml](pubspec.yaml) in the api directory.
+[pubspec.yaml](pubspec.yaml) in the api directory. 
 
 ## Snippets
 
@@ -124,8 +124,8 @@ The source for these snippets isn't stored under the [`examples/api`](.)
 directory, or available in Dartpad in the API docs, since they're not intended
 to be runnable, they just show some incomplete snippet of example code. It must
 compile (in the context of the sample analyzer), but doesn't need to do
-anything. See [the snippets documentation](
-https://pub.dev/packages/snippets#snippet-tool) for more information about the
+anything. See [the snippets documentation]
+(https://pub.dev/packages/snippets#snippet-tool) for more information about the
 context that the analyzer uses.
 
 ## Writing Tests
