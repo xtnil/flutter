@@ -33,6 +33,7 @@ changes](https://docs.flutter.dev/release/breaking-changes) across releases.
 
 ## Terms of service
 
+
 The Flutter tool may occasionally download resources from Google servers. By
 downloading or using the Flutter SDK, you agree to the Google Terms of Service:
 https://policies.google.com/terms
@@ -73,6 +74,7 @@ compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
 as JavaScript for the web and Intel x64 for desktop devices.
 
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
+
 
 ### Productive development
 
